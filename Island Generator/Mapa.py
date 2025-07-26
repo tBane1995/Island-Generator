@@ -1,7 +1,7 @@
 import sdl2
 import sdl2.ext
-import numpy as np
 import time
+import numpy as np
 
 class Map:
 	

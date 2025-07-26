@@ -1,11 +1,10 @@
 import sys
 import os
-os.environ["PYSDL2_DLL_PATH"] = r"..\SDL2-2.32.2-win32-x64"
 import sdl2
 import sdl2.ext
 import sdl2.ext.ttf
-import numpy as np
 import time
+import numpy as np
 
 import Mapa 
 import Tips

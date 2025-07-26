@@ -1,7 +1,6 @@
 import sdl2
 import sdl2.ext
 import sdl2.ext.ttf
-import numpy as np
 import time
 
 class Tip:
