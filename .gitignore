@@ -5,8 +5,5 @@
 *.pyproj
 
 # Directories generater by Visual Studio
-.vs/
-x64/
-Debug/
-Release/
-build/
+.vs
+__pycache__
